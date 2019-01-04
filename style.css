@@ -1,0 +1,20 @@
+#still {
+    font-style: oblique;
+    font-weight: normal;
+}    
+#container {
+    max-width: 650px;
+    text-align: left;
+    margin : 40px auto;
+    margin-right: auto;
+    font-size: 18px;
+    line-height: 1.6;
+    color:#444;
+    padding: : 0 10px;
+}
+#classic {
+    font-family: 'Courier New', Courier, monospace;
+}
+#tiret {
+    
+}
