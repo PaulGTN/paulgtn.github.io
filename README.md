@@ -1,1 +1,3 @@
-https://paulgtn.github.io
+Ce groupe était composé de :
+ - Vincent Leparoux
+ - Paul Graton
